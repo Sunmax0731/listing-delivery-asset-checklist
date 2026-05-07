@@ -1,0 +1,66 @@
+{
+  "rank": 78,
+  "domain": "AndroidApp",
+  "ideaNo": 8,
+  "ideaName": "出品・納品・素材チェック",
+  "repository": "listing-delivery-asset-checklist",
+  "publish": "Google Play",
+  "createdIdeaLookup": {
+    "exactPathFirst": "D:/AI/AndroidApp/created_idea_008_listing-delivery-asset-checklist",
+    "exactPathExists": true,
+    "fallbackSearched": false,
+    "fallbackResults": [],
+    "notes": "完全一致の created_idea と ZIP を使用した。"
+  },
+  "zipLookup": {
+    "exactZip": "D:/AI/AndroidApp/created_idea_008_listing-delivery-asset-checklist/idea_008_listing-delivery-asset-checklist.zip",
+    "exactZipExists": true,
+    "requiredFiles": [
+      "metadata.json",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md"
+    ],
+    "missingRequiredFiles": []
+  },
+  "zipMetadata": {
+    "domain": "AndroidApp",
+    "no": 8,
+    "platform": "AndroidApp",
+    "field": "検品・品質保証",
+    "integration": "",
+    "idea": "出品・納品・素材チェック",
+    "overview": "BOOTH出品、商品画像、スマホ写真、3D素材レビューをチェックリスト化する。 入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+    "problem": "販売前や納品前の抜け漏れが小さなミスとして残る。",
+    "similar": "Google Keep, Todoist, Microsoft To Do, Loop Habit Tracker, Bring!, MyTherapy, Niagara Launcher",
+    "diff": "用途別チェック項目と証跡写真を同じカードに保存する。",
+    "parent": "Apps",
+    "startPromptFile": "START_PROMPT.md",
+    "documents": [
+      "START_PROMPT.md",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md",
+      "metadata.json"
+    ],
+    "repositoryName": "listing-delivery-asset-checklist",
+    "repositoryTitle": "listing-delivery-asset-checklist",
+    "zipFile": "idea_008_listing-delivery-asset-checklist.zip"
+  },
+  "metadataRepositoryMatches": true,
+  "metadataZipMatches": true,
+  "initialRepositoryReadme": {
+    "existedBeforeCreation": false,
+    "note": "正式 repo が存在しなかったため README.md は存在しないと記録し、domain docs と created_idea ZIP を根拠に作成した。"
+  },
+  "mojibakePolicy": "ZIP本文や既存Markdownは丸写しせず、PICKUP行、metadata、domain docsから正式docsを再構成する。",
+  "unstableEvidencePolicy": "ZIPサイズ、生成時刻、絶対一時パスはQCDS固定根拠に使わない。"
+}
