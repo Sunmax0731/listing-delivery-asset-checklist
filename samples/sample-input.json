@@ -1,0 +1,21 @@
+{
+  "product": {
+    "repository": "listing-delivery-asset-checklist",
+    "title": "出品・納品・素材チェック"
+  },
+  "items": [
+    {
+      "id": "listing-delivery-asset-checklist-happy",
+      "title": "出品・納品・素材チェック happy",
+      "status": "ready",
+      "tags": [
+        "androidapp"
+      ],
+      "listingTarget": "BOOTH item",
+      "assetPath": "samples/happy.asset",
+      "deliveryRule": "required preview and zip",
+      "owner": "closed-alpha",
+      "offlineNote": "出品・納品・素材チェック の確認観点"
+    }
+  ]
+}
