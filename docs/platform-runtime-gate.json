@@ -1,0 +1,14 @@
+{
+  "product": "listing-delivery-asset-checklist",
+  "title": "出品・納品・素材チェック",
+  "domain": "AndroidApp",
+  "ideaNo": 8,
+  "platformType": "android-emulator",
+  "expectedPublicTarget": "Google Play",
+  "browser": null,
+  "android": {
+    "packageName": "com.sunmax0731.listingdeliveryassetchecklist",
+    "evidence": "dist/android-emulator-result.json"
+  },
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
